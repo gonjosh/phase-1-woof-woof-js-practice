@@ -1,0 +1,5 @@
+take data from database
+create functions with javascript
+create html for dog gallery
+create events for dog buttons
+when button is clicked dog will be rendered in middle
